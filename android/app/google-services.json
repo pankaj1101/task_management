@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "215506242129",
+    "firebase_url": "https://flutter-project-8521b-default-rtdb.firebaseio.com",
+    "project_id": "flutter-project-8521b",
+    "storage_bucket": "flutter-project-8521b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215506242129:android:665531a6aa514eb1e60670",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215506242129-pnoudact2ug4e9dcgs0qcrm0d3n9vubi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIvCS39MVUtPN0tg-pF9SWPOkKuGXKxGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215506242129-cjg3aggbtpgs2vecs3f8a5gsd8t2d8cp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215506242129-u1b2c429nrqgeccm7f0l51mhdjsm3a1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskManagement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215506242129:android:22fff421c4ecc41ee60670",
+        "android_client_info": {
+          "package_name": "com.example.task_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215506242129-pnoudact2ug4e9dcgs0qcrm0d3n9vubi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIvCS39MVUtPN0tg-pF9SWPOkKuGXKxGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215506242129-cjg3aggbtpgs2vecs3f8a5gsd8t2d8cp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215506242129-u1b2c429nrqgeccm7f0l51mhdjsm3a1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
